@@ -97,9 +97,7 @@ CHERRY BLOSSOM TREE
 ```
 
 ## OUTPUT
-![alt text](<Screenshot 2025-12-12 105631.png>) ![alt text](tower.jpg)
-![alt text](hitachi.jpg) ![alt text](mount.jpg)
-
+![alt text](<Screenshot 2025-12-12 115826.png>) ![alt text](<Screenshot 2025-12-12 115805.png>) ![alt text](<Screenshot 2025-12-12 115742.png>) ![alt text](<Screenshot 2025-12-12 115724.png>)
 
 
 
